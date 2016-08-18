@@ -8,5 +8,5 @@
 ####To generate tarantino_filmography.html from the command line enter:
 ```
 > cd site_generator
-> python site_generator/movie_site_generator.py
+> python movie_site_generator.py
 ```
