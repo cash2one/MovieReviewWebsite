@@ -6,4 +6,7 @@
   <li>site_generator contains code for generating a movie review website.
 </ul>
 ####To run from the command line enter:
-`python site_generator/movie_site_generator.py`
+```
+> cd site_generator
+> python site_generator/movie_site_generator.py
+```
