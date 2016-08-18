@@ -1,8 +1,7 @@
 # MovieReviewWebsite
-###Serverside webpage generator using Bootstrap
-
-Udacity Backend Web Development course project.<br/>
+###Serverside webpage generator using Bootstrap from Udacity Backend Web Development course project.
+Folder Contents
 <ul>
-  <li>filmography folder contains code for parsing wikipedia and youtube html pages to gather Quentin Tarantino's filmography. <br/>
-  <li>site_generator takes Tarantino's filmography and generates a movie review website.
+  <li>filmography contains code for parsing wikipedia and youtube html pages to retreive Quentin Tarantino's filmography. <br/>
+  <li>site_generator code generates a movie review website.
 </ul>
